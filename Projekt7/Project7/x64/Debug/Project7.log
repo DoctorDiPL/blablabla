@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+E:\Program Files\Epic Games\Git\Projekt7\Project7\Źródło.cpp(108,29): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\Program Files\Epic Games\Git\Projekt7\Project7\Źródło.cpp(116,29): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Project7.vcxproj -> E:\Program Files\Epic Games\Git\Projekt7\x64\Debug\Project7.exe
