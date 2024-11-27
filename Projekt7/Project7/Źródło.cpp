@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <fstream>
+#include <fstream>d
 #include <sstream>
-#include <cstdlib>s
+#include <cstdlib>
 #include <ctime>
 #include <cctype> // Dodane do obs³ugi std::tolower
 
