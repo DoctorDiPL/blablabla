@@ -3,7 +3,7 @@
 #include <vector>
 #include <fstream>
 #include <sstream>
-#include <cstdlib>
+#include <cstdlib>s
 #include <ctime>
 #include <cctype> // Dodane do obs³ugi std::tolower
 
