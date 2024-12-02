@@ -3,7 +3,9 @@
 #include <vector>
 #include <fstream>
 #include <sstream>
-
+#include <cstdlib>
+#include <ctime>
+#include <cctype> 
 
 // Funkcja do rysowania wisielca w zale¿noœci od liczby prób
 void rysujWisielca(int proby) {
