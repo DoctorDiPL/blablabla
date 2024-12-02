@@ -1,11 +1,9 @@
 #include <iostream>
 #include <string>
-#include <vector>s
-#include <fstream>dsd
-#include <sstream>as
-#include <cstdlib>s
-#include <ctime>
-#include <cctype> // Dodane do obs³ugi std::tolower
+#include <vector>
+#include <fstream>
+#include <sstream>
+
 
 // Funkcja do rysowania wisielca w zale¿noœci od liczby prób
 void rysujWisielca(int proby) {
